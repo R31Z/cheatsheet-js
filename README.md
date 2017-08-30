@@ -1,5 +1,6 @@
 # cheatsheet-js 
 Fork of https://github.com/gordonmzhu/cheatsheet-js
+
 A super condensed JavaScript reference for [Watch and Code](https://watchandcode.com/) students.
 
 # Required resources
